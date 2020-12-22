@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ej1seven/Quote-Generator/static/css/main.3f807097.chunk.css",
+    "main.js": "/ej1seven/Quote-Generator/static/js/main.2628a9ff.chunk.js",
+    "main.js.map": "/ej1seven/Quote-Generator/static/js/main.2628a9ff.chunk.js.map",
+    "runtime-main.js": "/ej1seven/Quote-Generator/static/js/runtime-main.5e56be89.js",
+    "runtime-main.js.map": "/ej1seven/Quote-Generator/static/js/runtime-main.5e56be89.js.map",
+    "static/js/2.e6ad6a5f.chunk.js": "/ej1seven/Quote-Generator/static/js/2.e6ad6a5f.chunk.js",
+    "static/js/2.e6ad6a5f.chunk.js.map": "/ej1seven/Quote-Generator/static/js/2.e6ad6a5f.chunk.js.map",
+    "static/js/3.e8d462be.chunk.js": "/ej1seven/Quote-Generator/static/js/3.e8d462be.chunk.js",
+    "static/js/3.e8d462be.chunk.js.map": "/ej1seven/Quote-Generator/static/js/3.e8d462be.chunk.js.map",
+    "index.html": "/ej1seven/Quote-Generator/index.html",
+    "static/css/main.3f807097.chunk.css.map": "/ej1seven/Quote-Generator/static/css/main.3f807097.chunk.css.map",
+    "static/js/2.e6ad6a5f.chunk.js.LICENSE.txt": "/ej1seven/Quote-Generator/static/js/2.e6ad6a5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e56be89.js",
+    "static/js/2.e6ad6a5f.chunk.js",
+    "static/css/main.3f807097.chunk.css",
+    "static/js/main.2628a9ff.chunk.js"
+  ]
+}

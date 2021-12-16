@@ -2,7 +2,7 @@
   "name": "motiv8-am",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ej1seven/quote-generator",
+  "homepage": "https://ej1seven.github.io/Quote-Generator/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.3"
   }
 }
